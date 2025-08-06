@@ -1,0 +1,3 @@
+Name: Harshita Palecha
+Course: Bsc Data Science
+GitHub is a web-based platform used primarily for version control and collaborative software development. It allows developers to store, manage, and share code and work together on projects from anywhere.
